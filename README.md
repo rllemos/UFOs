@@ -32,14 +32,14 @@
 
 ## Results
 
-*Search Procedure:*
+#### *Search Procedure:*
 
 This is the page where you will first be directed pnce accessing the webpage.
 By clicking on the navbar(UFOs Sighting) at the top left corner of the webpage a user can re-initialize the page. As shown by the image below.
 
 ![](static/images/Screen_shot_1.png)
 
-*Filtering the Table:*
+#### *Filtering the Table:*
 
 The user will be able to filter the table by, date, city,country,state and shape.
 once the filters have been applied the table will adjust accordingly.
