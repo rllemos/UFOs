@@ -31,4 +31,28 @@
 > 17. Deploy the web app on your GitHub pages.
 
 ## Results
+
+*Search Procedure:
+
+This is the page where you will first be directed pnce accessing the webpage.
+By clicking on the navbar(UFOs Sighting) at the top left corner of the webpage a user can re-initialize the page. As shown by the image below.
+
+![](static/images/Screen_shot_1.png)
+
+*Filtering the Table:
+
+The user will be able to filter the table by, date, city,country,state and shape.
+once the filters have been applied the table will adjust accordingly.
+
+![](static/images/Screen_shot_2.png)
 ### Summary
+
+### Drawbacks:
+
+1. One drawback of this webpage is that it does not have a clear button to clear the filters.
+2. Another drawback is that the table is not able to be filtered by key words in the comments column.
+
+### Recommendations:
+
+1. I would recommend to add a clear filter button, along with new parameters allowing for capital letters.
+2. Also, it would be beneficial to add a function to the date range allowing the table to be filtered by month as well as days.
