@@ -45,6 +45,7 @@ The user will be able to filter the table by, date, city,country,state and shape
 once the filters have been applied the table will adjust accordingly.
 
 ![](static/images/Screen_shot_2.png)
+
 ### Summary
 ### Drawbacks:
 
