@@ -46,7 +46,7 @@ once the filters have been applied the table will adjust accordingly.
 
 ![](static/images/Screen_shot_2.png)
 
-### Summary
+## Summary
 ### Drawbacks:
 
 1. One drawback of this webpage is that it does not have a clear button to clear the filters.
